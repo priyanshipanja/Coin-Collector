@@ -1,4 +1,4 @@
-# Coin Collector 🪙🎮
+# Coin Collector 
 
 A physics-based 3D roll-a-ball coin collection game built in Unity featuring smooth camera tracking, dynamic coin animations, and game state management.
 
@@ -9,7 +9,7 @@ A physics-based 3D roll-a-ball coin collection game built in Unity featuring smo
 
 ---
 
-## 🚀 Features
+## Features
 
 - **Physics-Based Ball Controller:** Smooth torque and force-based sphere movement powered by Unity's 3D physics engine (`Rigidbody`) with jump capability.
 - **Dynamic Coin Mechanics:** Coins with continuous 360-degree rotation and sinusoidal vertical floating/bobbing animations.
@@ -19,7 +19,7 @@ A physics-based 3D roll-a-ball coin collection game built in Unity featuring smo
 
 ---
 
-## 🎮 Controls
+## Controls
 
 | Key / Input | Action |
 |---|---|
@@ -31,7 +31,7 @@ A physics-based 3D roll-a-ball coin collection game built in Unity featuring smo
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 Coin Collector/
@@ -51,7 +51,7 @@ Coin Collector/
 
 ---
 
-## ⚡ Getting Started
+## Getting Started
 
 1. **Clone the repository:**
    ```bash
@@ -63,7 +63,7 @@ Coin Collector/
 
 ---
 
-## 👤 Author
+## Author
 
 **Priyanshi Panja**  
 - GitHub: [@priyanshipanja](https://github.com/priyanshipanja)
